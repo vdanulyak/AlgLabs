@@ -1,1 +1,1 @@
-git commit -m 'add t.txt to repository'
+git add t.txt
